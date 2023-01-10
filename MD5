@@ -1,0 +1,13 @@
+271e2cc35a4657a079531a65436f8fec *DESCRIPTION
+66fa9c0f3ed9ca689bfa6012df4ce4e6 *NAMESPACE
+9e44380e4d300a6c7effdd3b52730835 *R/bmr.R
+2742f3dc0afe38221ef185d53be2c22a *R/budget.R
+3eeec7b1facafe14b8d6717e90365282 *R/carbPct.R
+3d91e8dcf81030b34b7f101042afa50b *R/contants.R
+956b93cda5e2d4b38923c838b7edddbc *R/fiberGrams.R
+2fa860a7d620648381e85715591b3b6b *R/totalKcal.R
+b0014e6f35e4f4ca8c96e1cec986f06f *man/bmr.Rd
+8a49d092736483cceafa8c9ec770cbeb *man/budget.Rd
+416813ced3d9f90c0e118dfca2b47ee6 *man/carbPct.Rd
+0369dccfad5bf8668654821c0e506f6e *man/fiberGrams.Rd
+aa86d0a18cc08c638bcb2c1928c856d6 *man/totalKcal.Rd
