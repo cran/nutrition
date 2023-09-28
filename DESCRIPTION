@@ -1,6 +1,6 @@
 Package: nutrition
 Title: Useful Functions for People on a Diet
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     person(
         "Waldir", "Leoncio", , "w.l.netto@medisin.uio.no",
@@ -14,9 +14,12 @@ Description: Contains a collection of functions for performing different kinds
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.2.3
+URL: https://wleoncio.github.io/nutrition/
+BugReports: https://github.com/wleoncio/nutrition/issues
+Date: 2023-09-28
 NeedsCompilation: no
-Packaged: 2023-01-09 12:49:02 UTC; waldir
+Packaged: 2023-09-28 10:02:30 UTC; waldir
 Author: Waldir Leoncio [aut, cre] (<https://orcid.org/0000-0002-6719-6162>)
 Maintainer: Waldir Leoncio <w.l.netto@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2023-01-10 13:50:06 UTC
+Date/Publication: 2023-09-28 10:20:02 UTC
